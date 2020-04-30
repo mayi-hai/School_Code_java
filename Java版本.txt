@@ -1,0 +1,2 @@
+jdk1.8.0_102
+eclipse_luna_4.4.0_winX86
